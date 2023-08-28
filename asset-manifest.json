@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/domingodominic/Taylorswift_musicplayer.git/static/css/main.fdab0a51.css",
+    "main.js": "/domingodominic/Taylorswift_musicplayer.git/static/js/main.c5780f18.js",
+    "static/js/787.01890fb4.chunk.js": "/domingodominic/Taylorswift_musicplayer.git/static/js/787.01890fb4.chunk.js",
+    "static/media/betty.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/betty.e7eda9eb624d333ff070.mp3",
+    "static/media/epiphany.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/epiphany.c2d153f8d3cac5318b50.mp3",
+    "static/media/exile.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/exile.b5f9669afee8beaad5e2.mp3",
+    "static/media/august.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/august.aa7f7e731989c3b343cc.mp3",
+    "static/media/invisiblestring.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/invisiblestring.50bdfd89d19c3260e19f.mp3",
+    "static/media/mytearsricochet.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/mytearsricochet.1abbe58b13d81e9b8be7.mp3",
+    "static/media/cardigan.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/cardigan.b3930277ca07c0c88cc9.mp3",
+    "static/media/madwoman.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/madwoman.706d131dd6fe4a982343.mp3",
+    "static/media/ThelastGreat.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/ThelastGreat.29960c44d75b8e44ea65.mp3",
+    "static/media/mirrorball.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/mirrorball.11027fc9c0ce41643581.mp3",
+    "static/media/hoax.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/hoax.10505c9febebc396617f.mp3",
+    "static/media/peace.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/peace.8802f496ab1741c64227.mp3",
+    "static/media/the1.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/the1.f0d2b5a10a57ffb64783.mp3",
+    "static/media/seven.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/seven.892a07f32c2cab99a60f.mp3",
+    "static/media/thisismetrying.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/thisismetrying.acdf00a8e32e5da9a50e.mp3",
+    "static/media/illicit.mp3": "/domingodominic/Taylorswift_musicplayer.git/static/media/illicit.f15407acdd342e2df16e.mp3",
+    "static/media/folklore.jpg": "/domingodominic/Taylorswift_musicplayer.git/static/media/folklore.a19dbcab90e1ffe837b8.jpg",
+    "index.html": "/domingodominic/Taylorswift_musicplayer.git/index.html",
+    "main.fdab0a51.css.map": "/domingodominic/Taylorswift_musicplayer.git/static/css/main.fdab0a51.css.map",
+    "main.c5780f18.js.map": "/domingodominic/Taylorswift_musicplayer.git/static/js/main.c5780f18.js.map",
+    "787.01890fb4.chunk.js.map": "/domingodominic/Taylorswift_musicplayer.git/static/js/787.01890fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdab0a51.css",
+    "static/js/main.c5780f18.js"
+  ]
+}
